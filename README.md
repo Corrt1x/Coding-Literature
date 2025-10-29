@@ -1,6 +1,7 @@
 # My Book List
 
 Welcome! This is a simple project that keeps a list of recommended programming books(hopefully not only by me).
+**This list is just a starting point based on my own opinions and research. The "best" book is different for everyone! If you have a favorite book that's missing, please feel free to contribute.**
 
 The main list of books is stored in the `books.json` file.
 The `app.py` script is a simple Python program that reads that file and prints.
@@ -21,18 +22,18 @@ If you are new to programming, here is the way to download and run this project.
 1.  **Get the URL:** Go to the main page of this repository and click the green **"< > Code"** button. Copy the **HTTPS** URL. It should look like this:
     
     ```bash
-    [https://github.com/Corrt1x/Coding-Literature-.git](https://github.com/Corrt1x/Coding-Literature-.git)
+    [https://github.com/Corrt1x/Coding-Literature.git](https://github.com/Corrt1x/Coding-Literature.git)
     ```
 
 2.  **Clone the Project:** In your terminal, type `git clone` and paste the URL you just copied:
     
     ```bash
-    git clone [https://github.com/Corrt1x/Coding-Literature-.git](https://github.com/Corrt1x/Coding-Literature-.git)
+    git clone [https://github.com/Corrt1x/Coding-Literature.git](https://github.com/Corrt1x/Coding-Literature.git)
     ```
 
 3.  **Move into the Folder:** Your terminal can now move into the new folder that was just created.
     ```bash
-    cd Coding-Literature-
+    cd Coding-Literature
     ```
 
 4.  **Run the App:** Use Python to run the script.
