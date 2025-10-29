@@ -18,17 +18,21 @@ If you are new to programming, here is the way to download and run this project.
 
 ### Instructions
 
-1. Copy the HTTPS URL. Then, in your terminal, type `git clone` and paste the URL:
-    
-    
+1.  **Get the URL:** Go to the main page of this repository and click the green **"< > Code"** button. Copy the **HTTPS** URL. It should look like this:
     
     ```bash
-  
+    [https://github.com/Corrt1x/Coding-Literature-.git](https://github.com/Corrt1x/Coding-Literature-.git)
     ```
 
-3.  **Move into the Folder:** Your terminal is now in the `` folder.
+2.  **Clone the Project:** In your terminal, type `git clone` and paste the URL you just copied:
+    
     ```bash
-    cd 
+    git clone [https://github.com/Corrt1x/Coding-Literature-.git](https://github.com/Corrt1x/Coding-Literature-.git)
+    ```
+
+3.  **Move into the Folder:** Your terminal can now move into the new folder that was just created.
+    ```bash
+    cd Coding-Literature-
     ```
 
 4.  **Run the App:** Use Python to run the script.
